@@ -1,0 +1,63 @@
+{
+    "header": {
+      "nav": [
+        {
+          "linkTitle": "Shop",
+          "NavLink": "#"
+        },
+        {
+          "linkTitle": "Brands",
+          "NavLink": "#"
+        },
+        {
+          "linkTitle": "Contact us",
+          "NavLink": "#"
+        }
+      ],
+      "showSignupButton": true
+    },
+    "sectionBlocks": [
+      {
+        "heading": "Exquisite Watches",
+        "subheading": "Gold Luxury, Choose Us",
+        "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+        "price": "$499.00"
+      },
+      {
+        "heading": "Dainty Timepieces",
+        "subheading": "Silver Luxury, Choose Us",
+        "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
+        "price": "$469.00"
+      },
+      {
+        "heading": "Elegant Timepieces",
+        "subheading": "Choose Luxury, Choose Us",
+        "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+        "price": "$529.00"
+      },
+      {
+        "heading": "Exquisite Watches",
+        "subheading": "Gold Luxury, Choose Us",
+        "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+        "price": "$499.00"
+      }
+    ],
+    "footer": {
+      "socialLinks": [
+        {
+          "platform": "Facebook",
+          "link": "#"
+        },
+        {
+          "platform": "Twitter",
+          "link": "#"
+        },
+        {
+          "platform": "YouTube",
+          "link": "#"
+        }
+      ]
+      
+    }
+  }
+  
