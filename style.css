@@ -1,4 +1,4 @@
-/*---Google font---*/
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /*---Bases---*/
 *
@@ -42,8 +42,15 @@ a
   color:black;
 }
 
-
+.splide__arrows{
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  top: calc(50% - 50px/2);
+}
 .splide {
+  position: relative;
     padding: 10px 0px;
     background-color: transparent;
     overflow: hidden;
@@ -63,7 +70,7 @@ a
     
   }
 
-  .splide .splide__arrow {
+  .my-splide .splide__arrow {
     top: 0;
     bottom: 0;
     height: 100%;
@@ -76,14 +83,17 @@ a
       width: 24px;
       height: 24px;
     }
+    
   }
-  .splide__arrow.splide__arrow--prev {
+  .my-splide__arrow.my-splide__arrow--prev {
     left: 0;
     background: linear-gradient(90deg, rgba(0,0,0,.7) 0%, rgba(0,0,0,0) 0%);
+    /* display: none; */
   }
-  .splide__arrow.splide__arrow--next {
+  .my-splide__arrow.my-splide__arrow--next {
     right: 0;
     background: linear-gradient(270deg, rgba(0,0,0,.7) 0%, rgba(0,0,0,0) 0%);
+    /* display: none; */
   }
   
   #icons{
