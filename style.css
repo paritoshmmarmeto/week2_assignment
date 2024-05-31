@@ -107,7 +107,15 @@ a
   margin-top: 20px;
   }
 
+.image{
+  width: 35px;
+height: 35px;
+top: 554px;
+left: 1573px;
+gap: 0px;
+opacity: 0px;
 
+}
 
   .left {
     text-align: left;
@@ -255,8 +263,8 @@ button{
 }
 
 #image{
-    width: 35px;
-height: 35px;
+    width: 55px;
+height: 55px;
 top: 554px;
 left: 1573px;
 gap: 0px;
